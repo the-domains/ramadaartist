@@ -1,0 +1,28 @@
+name: RamadaArtist
+favicon: null
+layout_spectrum: 0.7068344159051776
+typography_spectrum: 0.22062411182560027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8211198011413217
+  lightness: 0.601104412227869
+  saturation: 0.8691754390019923
+  rhythmicContrast: 0.32107436400838196
+purpose: []
