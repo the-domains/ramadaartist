@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is some digital artwork I have made
-datePublished: '2016-03-19T21:53:26.141Z'
-dateModified: '2016-03-19T21:53:20.235Z'
-title: ''
+datePublished: '2016-03-19T23:03:32.902Z'
+dateModified: '2016-03-19T23:03:26.351Z'
+title: Digital Work
 author: []
+sourcePath: _posts/2016-03-19-this-is-some-digital-artwork-i-have-made.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-this-is-some-digital-artwork-i-have-made.md
-published: true
 url: this-is-some-digital-artwork-i-have-made/index.html
 _type: Article
 
@@ -31,6 +31,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee209e2-92bf-41a3-9ef9-e5bb05c874c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f77e523-4648-4401-85be-1510e8992c6a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff13e4a-4813-4f53-9f04-eaa33b03fec3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7e8f316-6472-4c64-a187-78a62a96a314.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f1bc8b-4e44-4c10-a2dd-797a3db49926.jpg)
 
 This is some digital artwork I have made
