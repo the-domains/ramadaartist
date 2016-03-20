@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T04:13:31.311Z'
-dateModified: '2016-03-20T04:10:49.209Z'
+datePublished: '2016-03-20T04:17:26.994Z'
+dateModified: '2016-03-20T04:13:42.286Z'
 title: This is just a cluster of some paintings I have made.
 author: []
 sourcePath: _posts/2016-03-19-first-cluster-of-work.md
