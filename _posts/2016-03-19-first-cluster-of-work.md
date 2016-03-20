@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T21:04:09.515Z'
-dateModified: '2016-03-19T21:03:28.286Z'
-title: First Cluster of Work
+datePublished: '2016-03-20T04:13:31.311Z'
+dateModified: '2016-03-20T04:10:49.209Z'
+title: This is just a cluster of some paintings I have made.
 author: []
+sourcePath: _posts/2016-03-19-first-cluster-of-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-first-cluster-of-work.md
-published: true
 url: first-cluster-of-work/index.html
 _type: Article
 
