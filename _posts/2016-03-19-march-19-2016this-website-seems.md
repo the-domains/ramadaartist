@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'March 19, 2016.This Website seems'
-datePublished: '2016-03-19T22:29:57.129Z'
-dateModified: '2016-03-19T22:28:27.728Z'
+description: 'March 19, 2016.This Website seems to be working out okay. Thank you robots, you are the best!'
+datePublished: '2016-03-20T04:13:09.965Z'
+dateModified: '2016-03-20T04:09:32.750Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-19-march-19-2016this-website-seems.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-march-19-2016this-website-seems.md
-published: true
 url: march-19-2016this-website-seems/index.html
 _type: Article
 
