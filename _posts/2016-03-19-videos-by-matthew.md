@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Here are some links to videos I've made:"
-datePublished: '2016-03-20T04:13:22.084Z'
-dateModified: '2016-03-20T04:10:07.019Z'
+datePublished: '2016-03-20T04:17:07.047Z'
+dateModified: '2016-03-20T04:17:05.058Z'
 title: Videos by Matthew
 author: []
 sourcePath: _posts/2016-03-19-videos-by-matthew.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: videos-by-matthew/index.html
-_type: Blurb
+_type: Article
 
 ---
 Here are some links to videos I've made:
