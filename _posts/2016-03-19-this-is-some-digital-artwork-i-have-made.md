@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is some digital artwork I have made
-datePublished: '2016-03-19T23:03:32.902Z'
-dateModified: '2016-03-19T23:03:26.351Z'
+datePublished: '2016-03-20T04:13:17.624Z'
+dateModified: '2016-03-20T04:10:20.517Z'
 title: Digital Work
 author: []
 sourcePath: _posts/2016-03-19-this-is-some-digital-artwork-i-have-made.md
