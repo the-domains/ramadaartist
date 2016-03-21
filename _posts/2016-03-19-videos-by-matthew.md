@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here are some links to videos I've made:"
-datePublished: '2016-03-21T19:15:36.869Z'
-dateModified: '2016-03-21T19:15:25.804Z'
+datePublished: '2016-03-21T19:15:55.475Z'
+dateModified: '2016-03-21T19:15:45.066Z'
 title: Videos by Matthew
 author: []
 sourcePath: _posts/2016-03-19-videos-by-matthew.md
