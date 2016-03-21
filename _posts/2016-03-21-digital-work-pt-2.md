@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is some more digital work, some of it is much older, mostly this is all made in Photoshop (some of it is hand drawn, others are photo edits.)'
-datePublished: '2016-03-21T18:50:10.922Z'
-dateModified: '2016-03-21T18:49:43.403Z'
+datePublished: '2016-03-21T18:57:37.610Z'
+dateModified: '2016-03-21T18:50:18.594Z'
 title: Digital Work Pt 2
 author: []
+sourcePath: _posts/2016-03-21-digital-work-pt-2.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-digital-work-pt-2.md
-published: true
 url: digital-work-pt-2/index.html
 _type: Article
 
@@ -33,8 +33,6 @@ These first few are photoedits.
 
 This image, and the other one like it, are self-portraits.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ad07427-6707-4a0b-8db0-db2a9168fc13.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc505e78-692e-449d-8ec4-d08a42857895.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98951cd8-c665-4f41-ad81-1e15fab6e06f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54525bcc-bb24-474b-8b2d-f1980e47f90d.jpg)
