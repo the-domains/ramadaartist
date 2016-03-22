@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here are some links to videos I've made:"
-datePublished: '2016-03-21T19:15:55.475Z'
-dateModified: '2016-03-21T19:15:45.066Z'
+datePublished: '2016-03-22T03:36:04.527Z'
+dateModified: '2016-03-22T03:35:24.064Z'
 title: Videos by Matthew
 author: []
 sourcePath: _posts/2016-03-19-videos-by-matthew.md
@@ -22,7 +22,7 @@ url: videos-by-matthew/index.html
 _type: Article
 
 ---
-Here are some links to videos I've made:
+These are some videos that I have made, the links bring you to their Youtube pages.
 
 Dance like fish
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a1790c-fa5b-4b6e-b091-b6483539bc1b.jpg)
