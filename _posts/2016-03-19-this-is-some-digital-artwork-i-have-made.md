@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "These are some fractal space images I made with a program that makes fractal spaces. I call them \"Pandora's Box.\" I made them in an attempt to woo a lady during online dating. It did not work. (Which is fine, I have found a much nicer lady in the meantime.)"
-datePublished: '2016-03-21T18:56:44.369Z'
-dateModified: '2016-03-21T18:56:44.088Z'
+datePublished: '2016-03-29T05:10:02.486Z'
+dateModified: '2016-03-29T05:09:50.862Z'
 title: Digital Work
 author: []
 sourcePath: _posts/2016-03-19-this-is-some-digital-artwork-i-have-made.md
@@ -35,3 +35,5 @@ These following images are made in Microsoft Paint. I like to try and use all di
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f77e523-4648-4401-85be-1510e8992c6a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff13e4a-4813-4f53-9f04-eaa33b03fec3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f1bc8b-4e44-4c10-a2dd-797a3db49926.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93aed086-1a20-4fda-ae71-749fefc44146.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa78514d-ab45-4250-b30c-b3d0e5725492.jpg)
