@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'These are some videos that I have made, the links bring you to their Youtube pages.'
-datePublished: '2016-03-29T09:54:47.985Z'
-dateModified: '2016-03-29T09:54:44.091Z'
+datePublished: '2016-03-29T10:08:55.080Z'
+dateModified: '2016-03-29T10:08:52.522Z'
 title: Videos by Matthew
 author: []
 sourcePath: _posts/2016-03-19-videos-by-matthew.md
@@ -28,8 +28,9 @@ Dance like fish
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a1790c-fa5b-4b6e-b091-b6483539bc1b.jpg)
 
 https://www.youtube.com/watch?v=pc0HnKXXLTE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05a9eb8-20b8-4dcb-ae35-0c91eb9e7919.jpg)
 
-Maybe if I put some words in here it will separate the things better.
+This is not a video, but I apparently need a placeholder to get the robots to build my page correctly.
 
 Super Moon
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf6ead9-56ef-4d68-84ac-56488be59421.jpg)
