@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Here are some links to videos I've made:"
-datePublished: '2016-03-22T03:36:04.527Z'
-dateModified: '2016-03-22T03:35:24.064Z'
+description: 'These are some videos that I have made, the links bring you to their Youtube pages.'
+datePublished: '2016-03-29T09:54:47.985Z'
+dateModified: '2016-03-29T09:54:44.091Z'
 title: Videos by Matthew
 author: []
 sourcePath: _posts/2016-03-19-videos-by-matthew.md
@@ -28,6 +28,8 @@ Dance like fish
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a1790c-fa5b-4b6e-b091-b6483539bc1b.jpg)
 
 https://www.youtube.com/watch?v=pc0HnKXXLTE
+
+Maybe if I put some words in here it will separate the things better.
 
 Super Moon
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf6ead9-56ef-4d68-84ac-56488be59421.jpg)
@@ -64,10 +66,12 @@ Love Story
 
 https://www.youtube.com/watch?v=fkicicHSQwI
 
-Teach That Robot Tango
+Teaching That Robot Tango
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/587ba3c4-b78b-41c3-b68d-ace579fbd344.jpg)
 
 https://www.youtube.com/watch?v=9TnGbmTZUUg
+
+BNC 15 NyanCat
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87c2bb5a-3d06-4a5f-94fe-02e272c84f1f.jpg)
 
 https://www.youtube.com/watch?v=QSc0tCU7PK0
