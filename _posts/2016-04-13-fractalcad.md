@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'CAD designs that I have made, based on fractal objects.'
-datePublished: '2016-04-13T05:35:59.943Z'
-dateModified: '2016-04-13T05:35:48.250Z'
+datePublished: '2016-04-13T05:36:09.928Z'
+dateModified: '2016-04-13T05:36:09.537Z'
 title: FractalCad
 author: []
 authors: []
