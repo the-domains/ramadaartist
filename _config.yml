@@ -1,7 +1,7 @@
 name: RamadaArtist
 favicon: null
-layout_spectrum: 0.52633
-typography_spectrum: 0.90112
+layout_spectrum: 0.71223
+typography_spectrum: 0.83141
 title: Personal Website of the artist Matthew J Ramada
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#8cc037'
     - '#fdec9e'
     - '#3172a8'
-  brandStrength: 0.8125
-  lightness: 0.1875
+  brandStrength: 0.75
+  lightness: 0.4375
   saturation: 0.5625
   rhythmicContrast: 0.25
 purpose: []
